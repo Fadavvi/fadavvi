@@ -1,4 +1,4 @@
-## Are you really watching my profile?!? #So... Hmm... Hello! 👋
+## Are you really watching my profile?!? So... Hmm... Hello! 👋
 
 <img src="https://media.giphy.com/media/zy89dUFZCagFy/giphy.gif"/></a> 
 
