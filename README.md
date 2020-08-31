@@ -9,7 +9,7 @@ I'm Milad and I'm an offensive security researcher than sometimes try to defense
 - 👯 I’m looking to collaborate on any offensive tool (Python!)
 
 ### States:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadavvi&show_icons=true&theme=dracula) ![Fadavvi's github stats](https://github-readme-stats.vercel.app/api?username=fadavvi&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadavvi&show_icons=true&theme=dracula&hide=javascript,html) ![Fadavvi's github stats](https://github-readme-stats.vercel.app/api?username=fadavvi&show_icons=true&theme=dracula)
 
 
 
