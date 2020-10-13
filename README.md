@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/zy89dUFZCagFy/giphy.gif"/></a> 
 
-I'm Milad and I'm an offensive security researcher than sometimes try to defense others from my attacks! and also a bug bounty hunter. You can mostly find me at <a href= "https://www.linkedin.com/in/fadavvi/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a> 
+I'm Milad and I'm an offensive security researcher than sometimes try to defense others from my attacks! and also a bug bounty hunter. You can mostly find me at <a href= "https://www.linkedin.com/in/fadavvi/">here!</a> 
 
 - 🔭 I’m currently working on Web Application Attacks and Fuzzing
 - 🌱 I’m currently learning Exploit Development
