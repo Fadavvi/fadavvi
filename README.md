@@ -1,8 +1,11 @@
-## Are you really watching my profile?!? So... Hmm... Hello! 👋
 
-<img src="https://media.giphy.com/media/zy89dUFZCagFy/giphy.gif"/></a> 
+### Are you really watching my profile?!? So... Hmm... Hello! 👋
 
-I'm Milad and I'm an offensive security researcher than sometimes try to defense others from my attacks! and also a bug bounty hunter. You can mostly find me at <a href= "https://www.linkedin.com/in/fadavvi/">here!</a> 
+<p align="center">
+<img src="https://media.giphy.com/media/zy89dUFZCagFy/giphy.gif"/>
+</p>
+
+I'm Milad Fadavvi, an offensive security researcher than sometimes try to defense others from attacks! and also a bug bounty hunter. You can mostly find me at <a href= "https://www.linkedin.com/in/fadavvi/">here!</a> 
 
 - 🔭 I’m currently working on Web Application Attacks and Fuzzing
 - 🌱 I’m currently learning Exploit Development
