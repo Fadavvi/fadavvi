@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/zy89dUFZCagFy/giphy.gif"/>
 </p>
 
-I'm Milad Fadavvi, an offensive security researcher than sometimes try to defense others from attacks! and also a bug bounty hunter. You can mostly find me at <a href= "https://www.linkedin.com/in/fadavvi/">here!</a> 
+I'm Milad Fadavvi, an offensive security researcher that sometimes try to defense others from attacks! And also a bug bounty hunter. You can mostly find me at <a href= "https://www.linkedin.com/in/fadavvi/">here!</a> 
 
 - 🔭 I’m currently working on Web Application Attacks and Fuzzing
 - 🌱 I’m currently learning Advanced web attacks & automation
