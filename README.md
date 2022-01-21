@@ -7,9 +7,7 @@
 
 I'm Milad Fadavvi, an offensive security researcher that sometimes try to defense others from attacks! And also a bug bounty hunter. You can mostly find me at <a href= "https://www.linkedin.com/in/fadavvi/">here!</a> 
 
-- 🔭 I’m currently working on Web Application Attacks and Fuzzing
-- 🌱 I’m currently learning Advanced web attacks & automation
-- 👯 I’m looking to collaborate on any offensive tool (Python/Bash)
+- 👯 Ready to collaborate on any offensive tool (Python/Bash/Go/Rust/C#)
 
 ### States:
 ![Fadavvi's github stats](https://github-readme-stats.vercel.app/api?username=fadavvi&show_icons=true&theme=dracula)
