@@ -9,23 +9,8 @@ I'm Milad Fadavvi, an offensive security researcher that sometimes try to defens
 
 - 👯 Ready to collaborate on any offensive tool (Python/Bash/Go/Rust/C#)
 
+### Languages:
+<h4 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadavvi&show_icons=true&theme=dracula&hide=javascript,html,CSS"></h4>
+
 ### States:
-![Fadavvi's github stats](https://github-readme-stats.vercel.app/api?username=fadavvi&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadavvi&show_icons=true&theme=dracula&hide=javascript,html,CSS) 
-
-
-
-<!--
-**Fadavvi/fadavvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
- ...
- ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=fadavvi&show_icons=true&theme=tokyonight"></h4>
