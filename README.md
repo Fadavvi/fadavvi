@@ -5,10 +5,9 @@
 <img src="https://media.giphy.com/media/zy89dUFZCagFy/giphy.gif"/>
 </p>
 
-I'm Milad Fadavvi, an offensive security researcher that sometimes try to defense others from attacks! And also a bug bounty hunter. You can mostly find me at <a href= "https://www.linkedin.com/in/fadavvi/">here!</a> 
+I'm Milad Fadavvi, an offensive security researcher who sometimes tries to defend others from attacks!
 
 - 👯 Ready to collaborate on any offensive tool (Python/Bash/Go/Rust/C#)
-
 
 <p align="center">
   <a href="https://github.com/fadavvi?tab=followers">
