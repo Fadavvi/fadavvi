@@ -13,7 +13,7 @@ I'm Milad Fadavvi, an offensive security researcher who sometimes tries to defen
   <a href="https://github.com/fadavvi?tab=followers">
     <img src="https://img.shields.io/github/followers/fadavvi?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-    <a href="https://linkedin.com/fadavvi">
+    <a href="https://www.linkedin.com/in/fadavvi/">
     <img src="https://img.shields.io/badge/LinkedIn-Fadavvi-blue?style=for-the-badge&logo=linkedin" alt="LInkedin badge" />
   </a>
 </p>
