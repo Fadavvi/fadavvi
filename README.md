@@ -7,7 +7,7 @@
 
 I'm Milad Fadavvi, an offensive security researcher who sometimes tries to defend others from attacks!
 
-- 👯 Ready to collaborate on any offensive tool (Python/Bash/Go/Rust/C#)
+- 👯 Ready to collaborate on any offensive tool (Rust/Bash/Python)
 
 <p align="center">
   <a href="https://github.com/fadavvi?tab=followers">
