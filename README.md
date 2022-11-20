@@ -1,5 +1,5 @@
 
-### Are you really watching my profile?!? So... Hmm... Hello! 👋
+### Really?!? So... Hmm... Hello! 👋
 
 <p align="center">
 <img src="https://media.giphy.com/media/zy89dUFZCagFy/giphy.gif"/>
