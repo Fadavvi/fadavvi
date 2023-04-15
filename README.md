@@ -5,9 +5,7 @@
 <img src="https://media.giphy.com/media/zy89dUFZCagFy/giphy.gif"/>
 </p>
 
-I'm Milad Fadavvi, an offensive security researcher who sometimes tries to defend others from attacks!
-
-- 👯 Ready to collaborate on any offensive tool (Rust/Bash/Python)
+I'm Milad Fadavvi, an offensive security engineer who also occasionally takes on the role of protecting others from attacks!
 
 <p align="center">
   <a href="https://github.com/fadavvi?tab=followers">
