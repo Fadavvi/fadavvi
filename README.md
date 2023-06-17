@@ -15,5 +15,3 @@ I'm Milad Fadavvi, an offensive security engineer who also occasionally takes on
     <img src="https://img.shields.io/badge/LinkedIn-Fadavvi-blue?style=for-the-badge&logo=linkedin" alt="LInkedin badge" />
   </a>
 </p>
-
-<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=fadavvi&show_icons=true&theme=tokyonight"></h4>
